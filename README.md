@@ -1,7 +1,5 @@
 # Collection of RNA-SEQ Data
 
-*Alternative Methods to Breeding Value Prediction in Loblolly Pine*
-
 - [Collection-of-RNA-SEQ-Data](#collection-of-rna-seq-data)
   * [Abstract](#abstract)
   * [Background of samples](#background-of-samples)
