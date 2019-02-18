@@ -52,7 +52,7 @@ Data Subject Type | Data File Type | Path | Notes
       
    See the [raw reads README](http://htmlpreview.github.com/?https://github.com/arfesta/RNA_SEQ_Data/blob/master/disk6directory/rawreads/012718raw_data_processing.html) for step by step processing of files.  
    
-  Extra prep scripts: [sample index identification](http://htmlpreview.github.com/?https://github.com/arfesta/Breeding-Value-Prediction/blob/master/disk6directory/analyses/step1.data_prep/identify_index_used.ouput.html) & [creation of experimental data](http://htmlpreview.github.com/?https://github.com/arfesta/Breeding-Value-Prediction/blob/master/disk6directory/analyses/step1.data_prep/create_expt_data.html)
+  Extra prep scripts: [sample index identification](http://htmlpreview.github.com/?https://github.com/arfesta/RNA_SEQ_Data/blob/master/disk6directory/analyses/step1.data_prep/identify_index_used.ouput.html) & [creation of experimental data](http://htmlpreview.github.com/?https://github.com/arfesta/RNA_SEQ_Data/blob/master/disk6directory/analyses/step1.data_prep/create_expt_data.html)
 
 ### Step 2 - Load Count Data
       
@@ -62,9 +62,9 @@ Data Subject Type | Data File Type | Path | Notes
    
    To see this process for **biological reps**, navigate to: 
    
-   [load counts bio rep html file](http://htmlpreview.github.com/?https://github.com/arfesta/Breeding-Value-Prediction/blob/master/disk6directory/analyses/step2.loadcounts/load.counts.html) which contains the complete markdown and output.
+   [load counts bio rep html file](http://htmlpreview.github.com/?https://github.com/arfesta/RNA_SEQ_Data/blob/master/disk6directory/analyses/step2.loadcounts/load.counts.html) which contains the complete markdown and output.
 
    To see this process for **technical reps**, navigate to: 
    
-   [load counts tech rep html file](http://htmlpreview.github.com/?https://github.com/arfesta/Breeding-Value-Prediction/blob/master/disk6directory/analyses/step2.loadcounts/load.counts_techreps.html) which contains the complete markdown and output.
+   [load counts tech rep html file](http://htmlpreview.github.com/?https://github.com/arfesta/RNA_SEQ_Data/blob/master/disk6directory/analyses/step2.loadcounts/load.counts_techreps.html) which contains the complete markdown and output.
 
