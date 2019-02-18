@@ -64,7 +64,7 @@ Data Subject Type | Data File Type | Path | Notes
    
    [load counts bio rep html file](http://htmlpreview.github.com/?https://github.com/arfesta/RNA_SEQ_Data/blob/master/disk6directory/analyses/step2.loadcounts/load.counts.html) which contains the complete markdown and output.
    
-  Origin information was added to the biological replicate matrix [Script](https://github.com/arfest/RNA_SEQ_Data/master/disk6directory/analyses/step2.load.counts.add_origin_dat_step2.R)
+  Origin information was added to the biological replicate matrix [Script](https://github.com/arfest/RNA_SEQ_Data/blob/master/disk6directory/analyses/step2.load.counts.add_origin_dat_step2.R)
 
    To see this process for **technical reps**, navigate to: 
    
